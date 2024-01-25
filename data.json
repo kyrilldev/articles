@@ -1,1 +1,41 @@
-
+{
+    "data": [
+        {
+            "news_url": "https://cointelegraph.com/news/crypto-energy-use-increase-over-30-percent-2026-ai-even-more",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/r/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjqtmdevn2ewyjy5nmytyme1ns00mdm2lwjmzgitmtq1mtzjyme4ngvhlmpwzw-429713.jpg",
+            "title": "Crypto energy use to increase over 30% by 2026, AI by even more",
+            "text": "The International Energy Agency expects AI's energy consumption to skyrocket, but it still pointed the finger at crypto as an over-consumer.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 25 Jan 2024 16:40:22 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://dailycoin.com/cash-vs-code-uk-weighs-future-money-with-digital-pound/",
+            "image_url": "https://crypto.snapi.dev/images/v1/z/s/uk-london-bad-news-crypto-coin-rain-cant-watch-web-530x353-429711.jpg",
+            "title": "Cash vs. Code: UK Weighs Future of Money with Digital Pound",
+            "text": "Digital pound on hold: UK authorities delay decision but promise continued exploration and design efforts.",
+            "source_name": "Dailycoin",
+            "date": "Thu, 25 Jan 2024 16:37:22 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article"
+        },
+        {
+            "news_url": "https://news.bitcoin.com/topps-navigates-web3-hurdles-shifts-to-fortress-amid-regulatory-challenges-in-nft-expansion/",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/k/topps-768x432-429710.jpg",
+            "title": "Topps Navigates Web3 Hurdles: Shifts to Fortress Amid Regulatory Challenges in NFT Expansion",
+            "text": "This week the collectibles and candy company Topps communicated with its customers regarding its non-fungible token (NFT) initiatives. The company acknowledged encountering challenges with a payment service provider in January 2023, leading to a transition to a new provider, Fortress, in September.",
+            "source_name": "Bitcoin",
+            "date": "Thu, 25 Jan 2024 16:30:16 -0500",
+            "topics": [
+                "regulations",
+                "NFT"
+            ],
+            "sentiment": "Positive",
+            "type": "Article"
+        }
+    ],
+    "total_pages": 3334
+}
